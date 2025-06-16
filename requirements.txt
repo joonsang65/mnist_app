@@ -3,8 +3,8 @@ streamlit==1.26.0
 streamlit-drawable-canvas==0.9.3
 
 # onnx 관련
-onnx==1.15.0
-onnxruntime==1.15.1
+onnxruntime==1.14.1
+onnx==1.14.0
 onnx-simplifier==0.4.12
 
 # pytorch
