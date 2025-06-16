@@ -1,14 +1,6 @@
 streamlit
 streamlit-drawable-canvas
-onnx
 onnxruntime
-onnx-simplifier
-torch
 numpy
-pandas
-matplotlib
-altair
-pydeck
-requests
 Pillow
-protobuf
+requests
