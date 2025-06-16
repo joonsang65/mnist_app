@@ -1,0 +1,39 @@
+# Python 가상환경
+myenv/
+venv/
+.env/
+
+# pycache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode 설정파일
+.vscode/
+
+# 운영체제별 시스템 파일
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Docker 관련
+*.log
+
+# 기타 빌드 산출물
+*.egg-info/
+build/
+dist/
+
+# pytest / coverage
+htmlcov/
+.tox/
+.coverage
+.cache
+.pytest_cache/
+
+# 파이썬 실행 로그 파일
+*.log

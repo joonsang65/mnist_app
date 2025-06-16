@@ -1,0 +1,21 @@
+# streamlit 관련
+streamlit==1.45.1
+streamlit-drawable-canvas==0.9.3
+
+# onnx 관련
+onnx==1.18.0
+onnxruntime==1.17.3
+onnx-simplifier==0.4.36
+
+# pytorch
+torch==2.7.1
+
+# 기타
+numpy==1.26.4
+pandas==2.3.0
+matplotlib==3.9.4
+altair==5.5.0
+pydeck==0.9.1
+requests==2.32.4
+Pillow==11.2.1
+protobuf==6.31.1
