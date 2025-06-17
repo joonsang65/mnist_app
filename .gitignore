@@ -21,6 +21,8 @@ Thumbs.db
 desktop.ini
 
 # Docker 관련
+.dockerignore
+dockerfile
 *.log
 
 # 기타 빌드 산출물
